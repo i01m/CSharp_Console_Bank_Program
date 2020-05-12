@@ -1,0 +1,13 @@
+H:\project\VisualStudio\BankProgram\BankProgram\bin\Debug\BankProgram.exe.config
+H:\project\VisualStudio\BankProgram\BankProgram\bin\Debug\BankProgram.exe
+H:\project\VisualStudio\BankProgram\BankProgram\bin\Debug\BankProgram.pdb
+H:\project\VisualStudio\BankProgram\BankProgram\obj\Debug\BankProgram.exe
+H:\project\VisualStudio\BankProgram\BankProgram\obj\Debug\BankProgram.pdb
+H:\project\VisualStudio\BankProgram\BankProgram\obj\Debug\BankProgram.csprojResolveAssemblyReference.cache
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankProgram\BankProgram\bin\Debug\BankProgram.exe.config
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankProgram\BankProgram\bin\Debug\BankProgram.exe
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankProgram\BankProgram\bin\Debug\BankProgram.pdb
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankProgram\BankProgram\obj\Debug\BankProgram.csprojAssemblyReference.cache
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankProgram\BankProgram\obj\Debug\BankProgram.csproj.CoreCompileInputs.cache
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankProgram\BankProgram\obj\Debug\BankProgram.exe
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankProgram\BankProgram\obj\Debug\BankProgram.pdb
